@@ -1,2 +1,2 @@
 My favorite animal is a panda. 
-Test.
+My favorite color is purple. 
